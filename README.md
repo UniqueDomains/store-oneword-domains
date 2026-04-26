@@ -1,22 +1,22 @@
-# Available .STORE One-Word Domains (67,874)
+# Available .STORE One-Word Domains (68,276)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-67%2C874%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C276%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .store one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **67,874 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **68,276 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 67,874 domains
+**Public extract:** 1,000 rows · **Live catalog:** 68,276 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/store`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .STORE one-word domain
 
 ### Files
 
-- `store.csv` — public CSV extract (10,000 rows)
-- `store.json` — public JSON extract (10,000 rows)
+- `store.csv` — public CSV extract (1,000 rows)
+- `store.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| internetofthings.store | available | $2.99     | $75.99        | 66             | 84     | 18     | name.com                                                |
-| bet.store              | resell    | —         | —             | 58             | 100    | 3      | Dotserve Inc                                            |
-| couture.store          | premium   | $781.25   | $3,125        | 71             | 96     | 7      | name.com                                                |
-| greenhydrogen.store    | available | $2.99     | $75.99        | 68             | 80     | 14     | name.com                                                |
-| flowing.store          | resell    | —         | —             | 86             | 92     | 7      | Namecheap                                               |
-| transmission.store     | premium   | $312.50   | $1,250        | —              | 96     | 12     | name.com                                                |
-| stonework.store        | available | $2.99     | $75.99        | 56             | 80     | 9      | name.com                                                |
-| enterprising.store     | resell    | —         | —             | 82             | 92     | 12     | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| aah.store              | premium   | $312.50   | $1,250        | 114            | 92     | 3      | name.com                                                |
-| uniquekey.store        | available | $2.99     | $72.99        | 74             | 76     | 10     | name.com                                                |
-| thrive.store           | resell    | —         | —             | 78             | 92     | 6      | Namecheap                                               |
-| therapy.store          | premium   | $781.25   | $3,125        | 94             | 92     | 7      | name.com                                                |
-| YouTubian.store        | available | $37.48    | —             | 82             | 72     | 9      | namecheap                                               |
-| handy.store            | resell    | —         | —             | 64             | 92     | 5      | Global Domains International, Inc.                      |
-| kitten.store           | premium   | $781.25   | $3,125        | 86             | 92     | 6      | name.com                                                |
-| Aberdeenshire.store    | available | $38.48    | —             | 60             | 72     | 13     | namecheap                                               |
-| thinktank.store        | resell    | —         | —             | 82             | 88     | 10     | Spaceship, Inc.                                         |
-| copper.store           | premium   | $312.50   | $1,250        | 54             | 92     | 6      | name.com                                                |
-| abdominalwall.store    | available | $2.99     | $75.99        | 54             | 72     | 14     | name.com                                                |
-| nevermind.store        | resell    | —         | —             | 80             | 88     | 10     | Sav.com, LLC - 48                                       |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| billof.store       | available | $2.99     | $72.99        | 52             | 72     | 13     | name.com                                            |
+| kirkland.store     | resell    | —         | —             | 74             | 82     | 8      | Squarespace Domains LLC                             |
+| handbags.store     | premium   | $781.25   | $3,125        | 70             | 80     | 8      | name.com                                            |
+| makegood.store     | available | $2.99     | —             | 86             | 14     | 9      | name.com                                            |
+| online.store       | resell    | —         | —             | 70             | 62     | 7      | NAME DOT STORE INC                                  |
+| clinics.store      | premium   | $156.25   | $625          | 56             | 32     | 7      | name.com                                            |
+| seeyoulater.store  | available | $2.99     | —             | 54             | 12     | 13     | name.com                                            |
+| RedSox.store       | resell    | —         | —             | 72             | 60     | 7      | Dynadot Inc                                         |
+| cell.store         | premium   | $781.25   | $3,125        | 94             | 30     | 4      | name.com                                            |
+| tapinto.store      | available | $2.99     | —             | 68             | 11     | 8      | name.com                                            |
+| retrogaming.store  | resell    | —         | —             | —              | 60     | 12     | OVH                                                 |
+| superhero.store    | premium   | $156.25   | —             | 84             | 23     | 9      | name.com                                            |
+| officehours.store  | available | $2.99     | —             | 75             | 10     | 12     | name.com                                            |
+| letsgo.store       | resell    | —         | —             | 57             | 31     | 7      | Squarespace Domains LLC                             |
+| guns.store         | premium   | $3,125    | —             | 68             | 22     | 4      | name.com                                            |
+| GoodFriday.store   | available | $43.98    | —             | 72             | 9      | 11     | namecheap                                           |
+| whats.store        | resell    | —         | —             | 58             | 24     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| distributed.store  | premium   | $781.25   | —             | 64             | 21     | 11     | name.com                                            |
+| chiefofstaff.store | available | $2.99     | —             | 60             | 9      | 14     | name.com                                            |
+| thankyou.store     | resell    | —         | —             | 100            | 23     | 9      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 67,874 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 68,276 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
