@@ -136,6 +136,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4fc32c79-b828-45ab-a75f-94092f307489,Phillip.store,premium,875,3500,70,14,7,namecheap,,
 50576218-0bc7-4856-95ca-e27fe90f65de,Jody.store,premium,,,74,10,4,,,
 51cec5c6-e1ee-4030-a4ab-96c9b9bfee82,studs.store,resell,,,69,7,5,"GoDaddy.com, LLC",15/02/2026 13:52,15/02/2027 23:59
+52657a88-85e4-4515-8b9f-a27a551ed714,golfgame.store,premium,,,80,3,9,,,
 53551d97-e750-43c5-809b-1d023809170c,finalreckoning.store,available,2.99,,58,2,15,name.com,,
 53711bbc-da53-4b66-888a-4a8af133e766,letusgo.store,available,2.99,,57,4,9,name.com,,
 53a034cd-48c6-423b-8b38-28b94b46c980,unsettles.store,available,2.99,,43,1,9,name.com,,
@@ -191,7 +192,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7094c21e-5586-4820-9036-4959c82af2e3,makesense.store,resell,,,82,14,10,"GoDaddy.com, LLC",22/04/2025 01:06,22/04/2027 23:59
 711814e2-f746-4ee4-9c04-703c0a458bc9,tapinto.store,available,2.99,,68,11,8,name.com,,
 720d5dce-4046-4a86-9ef1-4676a5ec2a7c,surebet.store,resell,,,82,8,8,"GoDaddy.com, LLC",25/12/2025 01:43,25/12/2026 23:59
-72bcb91b-a2c5-408e-80cf-8399914014f1,grandad.store,resell,,,80,3,7,"NameCheap, Inc.",17/05/2023 16:23,17/05/2026 23:59
 72f840b8-316b-4f82-9050-0a579b920d33,wheels.store,premium,312.5,,76,20,6,name.com,,
 732227ee-cc10-4728-975d-4a06f602a17d,goawry.store,available,2.99,,66,0,7,name.com,,
 73c0ef1e-e815-41b6-a077-860a6e65d75a,getready.store,resell,,,88,11,9,"GoDaddy.com, LLC",24/06/2025 08:18,24/06/2026 23:59
@@ -244,6 +244,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8d2db519-4247-4ea6-a85b-46307e1d0e2b,threats.store,premium,78.12,,44,8,7,name.com,,
 8d8f8b17-47d2-495f-b36c-7ca22e84e598,takeanap.store,available,2.99,,73,2,10,name.com,,
 8f981f52-79c4-4ef6-be0f-3d22707ad43d,guns.store,premium,3125,,68,22,4,name.com,,
+8ff4adac-cb75-483d-abe2-5625d365a12c,jamesdean.store,premium,,,89,4,10,,,
 9100c025-36c6-4325-ae96-96e35a7494de,blewagasket.store,available,2.99,,34,1,13,name.com,,
 91857cc1-2e63-454d-acb9-ad97af009b29,rashes.store,available,2.99,,40,3,6,name.com,,
 930e1ecc-6853-42a4-8daa-cccac868de71,neighbourhood.store,resell,,,70,14,13,Xin Net Technology Corporation,13/08/2024 08:20,13/08/2026 23:59
@@ -841,7 +842,7 @@ f1137c08-ab3d-44a0-985a-2a130c194db3,pennychew.store,premium,,,54,72,10,,,
 795efee7-ebcb-49d1-9571-9ce9f006495e,chowchow.store,premium,,,90,80,9,,,
 9ac9ecfb-1154-4caf-99f9-2961b7b1cb21,herdinginstinct.store,premium,,,54,72,16,,,
 ad53be83-b33e-4cb1-b1bd-e7e5162a3d19,footfalls.store,premium,,,40,12,9,,,
-b67b0fa2-519c-4773-865d-46e2f56c3eaa,resolution.store,premium,,,74,23,10,,,
+b67b0fa2-519c-4773-865d-46e2f56c3eaa,resolution.store,premium,,,74,21,10,,,
 da8747c1-b5e7-490d-9c54-483081db841d,taxa.store,premium,,,,48,4,,,
 a93ced0c-3505-40e1-af00-52d6ec60e5d8,optionally.store,premium,,,61,2,10,,,
 d38a2894-74d5-427d-b8ae-95328f84a1b0,hitat.store,premium,,,46,72,6,,,
@@ -998,4 +999,3 @@ a335f7eb-1a49-4c92-9f2b-dc9a518a82dd,bodyhair.store,premium,,,58,72,9,,,
 97e65d84-f892-454c-95ae-1190a739c023,universalmind.store,premium,,,,80,14,,,
 95c022c6-5419-4e23-97f0-c945197b05b5,reddishbrown.store,premium,,,,72,13,,,
 94e6fd9e-59bc-42b5-83cd-b031149d3c50,MillVillage.store,premium,,,42,72,12,,,
-ae823cb9-5855-486b-a279-8182164a4bbf,yellowearth.store,premium,,,,72,12,,,
