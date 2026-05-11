@@ -164,7 +164,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5fa74f0f-6bba-4625-843b-b339226a7c43,gotothewashroom.store,available,2.99,,56,1,18,name.com,,
 60937f0b-cdf4-481a-99d0-4905ee9128ad,alcoholusedisorder.store,available,2.99,,48,1,20,name.com,,
 60a0490a-438b-4421-8ecc-40d59cece357,rumorhasit.store,available,2.99,,47,2,12,name.com,,
-63099aa3-11a1-4f3e-b3fe-24d178915a5b,buzzed.store,resell,,,72,13,6,"GoDaddy.com, LLC",06/04/2026 10:42,06/04/2027 10:42
+63099aa3-11a1-4f3e-b3fe-24d178915a5b,buzzed.store,resell,,,72,12,6,"GoDaddy.com, LLC",06/04/2026 10:42,06/04/2027 10:42
 6337f8ab-0a55-4908-9c58-d5cb54185857,getrid.store,available,2.99,,56,3,7,name.com,,
 638cfaa3-0840-47c6-a2f6-3d144fe6627a,cloves.store,available,2.99,,60,5,6,name.com,,
 64a0b898-c0a1-4756-b29d-3caccfcd1d83,Lordknows.store,available,43.98,,66,2,10,namecheap,,
@@ -266,11 +266,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 97196742-719d-4729-a782-d372b1dc969f,backtaxes.store,available,2.99,,62,3,10,name.com,,
 97fd0d0a-ab2b-4a47-81cd-871bf4b6bdfa,cocks.store,premium,78.12,,56,10,5,name.com,,
 984ba886-5188-4821-b5dc-778cc08b754e,alcoholpoisoning.store,available,2.99,,48,1,17,name.com,,
-98c66a35-a470-4e8a-a41a-2d2ac5fa9b48,Googler.store,available,43.98,,80,6,7,namecheap,,
+98c66a35-a470-4e8a-a41a-2d2ac5fa9b48,Googler.store,available,43.98,,80,7,7,namecheap,,
 98d938ba-c958-48da-96de-3bad6ac7cf46,terrifies.store,available,2.99,,39,1,9,name.com,,
 98f029d7-f433-4b39-b974-7189e32cc61c,waitout.store,available,2.99,,63,1,8,name.com,,
 99b16d9e-53c0-4376-98de-5ceae97fb225,flipflops.store,resell,,,52,5,10,"GoDaddy.com, LLC",03/12/2025 15:14,03/12/2026 23:59
-99dbdee7-083e-487b-b62d-5612ecce1605,drivethru.store,resell,,,76,11,10,"GoDaddy.com, LLC",17/02/2026 07:41,17/02/2027 23:59
+99dbdee7-083e-487b-b62d-5612ecce1605,drivethru.store,resell,,,76,10,10,"GoDaddy.com, LLC",17/02/2026 07:41,17/02/2027 23:59
 9a66c9c2-b6a7-4f06-ab06-934bfd33684f,carbonmonoxide.store,available,2.99,,54,4,15,name.com,,
 9a754bee-eab5-46db-9dfe-0d48e02610b4,childsextourism.store,available,2.99,,30,1,17,name.com,,
 9ad1d5bc-60dd-46fc-b065-92811b2931d6,fires.store,premium,78.12,,46,10,5,name.com,,
