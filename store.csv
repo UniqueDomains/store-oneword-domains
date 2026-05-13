@@ -58,7 +58,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 258c1832-4ae8-41b7-ad85-7810b2e207b6,ranted.store,available,2.99,,48,2,6,name.com,,
 26c3d72d-36a2-407e-87fa-4308193412ae,onfire.store,resell,,,50,12,7,"Xiamen ChinaSource Internet Service Co., Ltd",17/08/2025 10:34,17/08/2026 23:59
 270f70ce-5f89-4057-998b-7a6ecbcbdd2e,constraints.store,premium,78.12,,44,2,11,name.com,,
-277d4a8f-6371-4578-91b1-a81054df09fa,Oxfam.store,available,43.98,,72,5,5,namecheap,,
+277d4a8f-6371-4578-91b1-a81054df09fa,Oxfam.store,available,43.98,,72,6,5,namecheap,,
 27e40e37-0cfe-4cb7-8d56-7a14d8272238,dataflow.store,resell,,,70,16,9,"GoDaddy.com, LLC",28/10/2025 01:13,28/10/2026 23:59
 282caac3-f325-4c01-ab3f-6e9b6ccbfaf1,sucked.store,premium,78.12,,54,4,6,name.com,,
 287269b7-151c-480c-b2dc-660dcb55d778,disorders.store,premium,78.12,,46,5,9,name.com,,
@@ -283,6 +283,7 @@ a15f19fb-c0ef-4587-badb-b9f014600ae4,Ichooseviolence.store,available,43.98,,44,1
 a2caea53-fefe-42a6-8446-82a23388bce9,WorldWarIV.store,available,43.98,,52,1,12,namecheap,,
 a36afef4-1426-4211-8fb2-3afe4956095e,counterfeits.store,available,2.99,,40,2,12,name.com,,
 a4675c39-d2b0-4a69-b37c-7b6ec1a38dfb,toburn.store,available,2.99,,50,1,7,name.com,,
+a48b1d46-19db-4c6c-b450-8d0c8032ddb5,herbalmedicine.store,premium,,,70,3,15,,,
 a547f718-208a-46e5-a472-585e89d80ba9,RomanEmpire.store,available,43.98,,86,4,12,namecheap,,
 a5d19732-1cd8-43bc-9948-0eeee282e890,justsaying.store,available,2.99,,57,7,11,name.com,,
 a5d721d9-8ea1-4344-a452-fba941463668,outofmyway.store,available,2.99,,34,1,13,name.com,,
@@ -321,7 +322,7 @@ b876f627-afed-4809-9331-acfcca62610b,paperingover.store,available,2.99,,53,1,13,
 b929711a-0022-4ec7-8b3c-718e85815014,thereaway.store,available,2.99,,58,1,10,name.com,,
 b9afd5c4-0315-46b3-9090-9b56cdf63ae4,onthemove.store,resell,,,72,10,11,"GoDaddy.com, LLC",24/09/2025 19:08,24/09/2026 23:59
 ba10dd05-8ded-440b-9c53-91ad8ec277ce,sawoff.store,available,2.99,,60,1,7,name.com,,
-bade7ed0-47b0-409c-a47b-55e520703fbf,darkweb.store,resell,,,52,20,8,West263 International Limited,05/10/2025 17:07,05/10/2026 23:59
+bade7ed0-47b0-409c-a47b-55e520703fbf,darkweb.store,resell,,,52,21,8,West263 International Limited,05/10/2025 17:07,05/10/2026 23:59
 bb1b288b-47ed-453c-ad84-ac15fb683186,gohome.store,resell,,,76,14,7,Dynadot Inc,01/02/2026 12:58,01/02/2027 23:59
 bb450d82-fd93-4313-9719-3d8b0304d878,deaths.store,premium,78.12,,50,6,6,name.com,,
 bb59fb95-7b9e-43b3-b6ac-1503b5963c71,blazeaway.store,available,2.99,,76,1,10,name.com,,
@@ -373,6 +374,7 @@ d993b6fd-3016-407f-993c-c57383550cd9,bedamned.store,available,2.99,,38,1,9,name.
 d9d33b09-93c1-4c5e-8603-3f3e0aa886fd,demoting.store,available,2.99,,46,1,8,name.com,,
 da0297b7-0398-4aa9-b28e-f1ca6e8b5d4b,allsorts.store,available,2.99,,52,5,9,name.com,,
 da107b4c-a638-4b3b-b694-5dc5479e0622,slipthrough.store,available,2.99,,66,1,12,name.com,,
+da5803f7-822f-4d86-8248-549138549ffd,recommendation.store,premium,,,66,7,14,,,
 da8d3976-b97d-4b29-bd6c-d0c4400c12d8,todolist.store,resell,,,73,12,10,"GoDaddy.com, LLC",24/09/2025 20:14,24/09/2026 23:59
 dac107c8-c3b8-47c4-b58c-33753568af87,getsick.store,available,2.99,,72,1,8,name.com,,
 dbf569ab-436c-4983-b759-af82f5f1d99b,plaques.store,premium,78.12,,42,5,7,name.com,,
@@ -405,6 +407,7 @@ eb4414de-ef27-431e-bd2c-559bd0362135,wafers.store,available,2.99,,54,4,6,name.co
 ec153a73-dc1a-4b26-8d32-0fc36f5730cd,sparklingwine.store,available,2.99,,69,4,14,name.com,,
 ed604aa8-f4d5-42a0-b74e-b824bc18dcb6,intune.store,resell,,,72,16,7,"GoDaddy.com, LLC",12/08/2025 20:30,12/08/2026 23:59
 ee5927c3-3df7-424f-bda5-3d9448e84d91,keepitreal.store,resell,,,76,11,12,"GoDaddy.com, LLC",04/04/2026 10:53,04/04/2027 10:53
+eea603e9-99a1-420b-bc5f-6485d3e90ab6,speedoflight.store,premium,,,70,7,14,,,
 ef03b05b-027e-4f7e-b920-77c94150776a,proxyvoting.store,available,2.99,,62,2,12,name.com,,
 ef29e649-6e57-4663-bd21-7eaf7072dbc7,artofwar.store,resell,,,69,7,10,"GoDaddy.com, LLC",06/02/2026 21:47,06/02/2027 23:59
 efeb792a-a60e-475b-94b7-a04c95251763,leaks.store,premium,78.12,,46,15,5,name.com,,
@@ -996,6 +999,3 @@ a335f7eb-1a49-4c92-9f2b-dc9a518a82dd,bodyhair.store,premium,,,58,72,9,,,
 5534e96f-7773-4cbf-9708-9f572f3ea016,fireplace.store,premium,,,70,92,9,,,
 4d04f9c1-eae5-4b6c-ae42-9736b8486658,Pugwash.store,premium,,,52,72,7,,,
 2c3ed6a2-5e98-40d3-8d5a-7fae4c31d925,beachball.store,premium,,,82,84,10,,,
-5b47a1e9-2b65-496a-90d9-c6bc20e2c3b8,baptised.store,premium,,,58,1,8,,,
-2fcfd602-b707-43c8-99ef-d0aa866dbc49,freelancers.store,premium,,,42,40,11,,,
-7adfaf52-8b6b-4a2c-8794-54a6050fc19d,auctioning.store,premium,,,36,20,10,,,
