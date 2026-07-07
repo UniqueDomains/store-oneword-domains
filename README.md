@@ -1,10 +1,10 @@
-# Available .STORE One-Word Domains (68,358)
+# Available .STORE One-Word Domains (68,360)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C358%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C360%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .store one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **68,358 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **68,360 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 68,358 domains · **Median ask:** $418.33 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 68,360 domains · **Median ask:** $320.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/store`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/store`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .STORE one-word domain
 
 ### Files
 
-- `store.csv` — public CSV extract (1,000 rows)
-- `store.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `store.csv`, public CSV extract (1,000 rows)
+- `store.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| billof.store        | available | $2.99     | $72.99        | 52             | 72     | 13     | name.com                                            |
-| makegood.store      | resell    | $2.99     | —             | 86             | 10     | 9      | West263 International Limited                       |
-| handbags.store      | premium   | $781.25   | $3,125        | 70             | 80     | 8      | name.com                                            |
-| tapinto.store       | available | $2.99     | —             | 68             | 11     | 8      | name.com                                            |
-| kirkland.store      | resell    | —         | —             | 74             | 82     | 8      | Squarespace Domains LLC                             |
-| cell.store          | premium   | $781.25   | $3,125        | 94             | 29     | 4      | name.com                                            |
-| officehours.store   | available | $2.99     | —             | 75             | 10     | 12     | name.com                                            |
-| online.store        | resell    | —         | —             | 70             | 62     | 7      | NAME DOT STORE INC                                  |
-| superhero.store     | premium   | $156.25   | —             | 84             | 23     | 9      | name.com                                            |
-| chiefofstaff.store  | available | $2.99     | —             | 60             | 9      | 14     | name.com                                            |
-| RedSox.store        | resell    | —         | —             | 72             | 60     | 7      | Dynadot Inc                                         |
-| guns.store          | premium   | $3,125    | —             | 68             | 22     | 4      | name.com                                            |
-| Googler.store       | available | $43.98    | —             | 80             | 7      | 7      | namecheap                                           |
-| letsgo.store        | resell    | —         | —             | 57             | 31     | 7      | Squarespace Domains LLC                             |
-| distributed.store   | premium   | $781.25   | —             | 64             | 21     | 11     | name.com                                            |
-| datafeed.store      | available | $2.99     | —             | 70             | 7      | 9      | name.com                                            |
-| whats.store         | resell    | —         | —             | 58             | 24     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| wheels.store        | premium   | $312.50   | —             | 76             | 20     | 6      | name.com                                            |
-| HoChiMinhCity.store | available | $2.99     | —             | 64             | 7      | 16     | name.com                                            |
-| thankyou.store      | resell    | —         | —             | 100            | 23     | 9      | GoDaddy.com, LLC                                    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| half.store       | premium   | $312.50   | $1,250        | high           | low    | 4      | name.com                           |
+| getpast.store    | available | $2.99     | —             | high           | low    | 8      | name.com                           |
+| weed.store       | resell    | —         | —             | medium         | low    | 4      | Namify Domains Inc                 |
+| ala.store        | premium   | $781.25   | —             | high           | low    | 3      | name.com                           |
+| howmany.store    | available | $2.99     | —             | medium         | low    | 8      | name.com                           |
+| handy.store      | resell    | —         | —             | medium         | high   | 5      | Global Domains International, Inc. |
+| ask.store        | premium   | $312.50   | —             | high           | medium | 3      | name.com                           |
+| intight.store    | available | $2.99     | —             | medium         | low    | 8      | name.com                           |
+| sahib.store      | resell    | —         | —             | medium         | high   | 5      | Namecheap                          |
+| hat.store        | premium   | $312.50   | —             | high           | low    | 3      | name.com                           |
+| turntup.store    | available | $2.99     | —             | high           | low    | 8      | name.com                           |
+| thrive.store     | resell    | —         | —             | high           | high   | 6      | Namecheap                          |
+| ivy.store        | premium   | $781.25   | —             | high           | low    | 3      | name.com                           |
+| dishonour.store  | available | $2.99     | —             | high           | low    | 9      | name.com                           |
+| fifteen.store    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                   |
+| pot.store        | premium   | $3,125    | —             | high           | low    | 3      | name.com                           |
+| keepback.store   | available | $2.99     | —             | medium         | low    | 9      | name.com                           |
+| online.store     | resell    | —         | —             | high           | medium | 7      | Namify Domains Inc                 |
+| buds.store       | premium   | $156.25   | —             | medium         | low    | 4      | name.com                           |
+| adjectives.store | available | $2.99     | —             | medium         | low    | 10     | name.com                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 68,358 live domains                        |
+| 1,000-row public sample | 68,360 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by a single trait: one-word domains in the .store extension. That makes it useful for buyers comparing clean ecommerce-facing names with direct commercial intent. The names here range from broad words such as made.store and aesthetic.store to more tonal choices such as hush.store, horseplay.store, and hotfoot.store. When comparing these domains, focus on how naturally the word fits a retail brand, how easily it can be spoken and remembered, and whether the ask price is justified for the strength of the word. A median ask of 418.33 keeps price discipline central when building a shortlist.
+This selection includes one-word .STORE domain names such as RomanEmpire.store, half.store, out.store, okay.store, and christmas.store — short, ecommerce-ready names built for retail and online store brands. With a median ask near $321 across 68,360 domains, pricing spans from budget-friendly to premium depending on word rarity and length. Renewal costs and rarity vary by registrar, so compare each name's ask price and renewal rate before deciding which one-word .STORE domain fits a launch or a portfolio.
 
-- All names in this selection use the .store extension
-- One-word inventory suits direct retail positioning
-- Median ask is 418.33 across 68,346 domains
-- Prioritize clarity, recall, and trademark distance
+- 68,360 one-word .STORE domain names, updated daily
+- Median ask near $321 across this selection
+- Short, brandable names built for ecommerce brands
+- Compare ask price and renewal cost before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
