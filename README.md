@@ -1,10 +1,10 @@
-# Available .STORE One-Word Domains (71,585)
+# Available .STORE One-Word Domains (71,743)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C585%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C743%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .store one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **71,585 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **71,743 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 71,585 domains · **Median ask:** $220.04 · **High-demand under $2,500:** 338
+**Public extract:** 1,000 rows · **Live catalog:** 71,743 domains · **Median ask:** $218.79 · **High-demand under $2,500:** 338
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/store`
@@ -76,7 +76,7 @@ print(df.head())
 | aug.store      | premium   | $312.50   | $1,250        | medium         | low    | 3      | name.com                                                  |
 | addable.store  | available | $0.98     | $43.98        | low            | low    | 7      | namecheap                                                 |
 | thrive.store   | resell    | —         | —             | high           | high   | 6      | Namecheap                                                 |
-| hat.store      | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                  |
+| hat.store      | premium   | $312.50   | $1,250        | medium         | low    | 3      | name.com                                                  |
 | aground.store  | available | $0.98     | $43.98        | low            | low    | 7      | namecheap                                                 |
 | fifteen.store  | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
 | ivy.store      | premium   | $781.25   | —             | high           | low    | 3      | name.com                                                  |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 71,585 live domains                        |
+| 1,000-row public sample | 71,743 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 338 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
