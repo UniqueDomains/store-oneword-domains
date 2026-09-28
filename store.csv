@@ -18,9 +18,9 @@ ea919f8b-93d5-40fa-b9ea-c27948deaf2b,lineal.store,premium,78.12,312.5,high,low,6
 78766088-eb7e-488c-9922-d8ed1bebe8e9,separated.store,premium,302.5,302.5,high,low,9,namesilo,,,19/09/2026 04:08
 896e3d5a-f539-43d7-a548-c29c7f3d1d18,fontina.store,available,,,high,low,7,,,,
 2c10a3c5-3be2-4c36-add4-1827bd645234,invoices.store,available,,,high,medium,8,,,,
-141f4023-4c08-4e05-83bf-c5a7f6f396eb,bellies.store,available,,,high,low,7,,,,
+141f4023-4c08-4e05-83bf-c5a7f6f396eb,bellies.store,available,,,medium,low,7,,,,
 67b60932-b993-44bd-9882-de16d3d77715,armlet.store,available,5.19,58.99,high,low,6,namesilo,,,20/09/2026 06:20
-cb518edf-ab83-4c63-95e5-5aaf7af467fa,spruces.store,available,,,high,low,7,,,,
+cb518edf-ab83-4c63-95e5-5aaf7af467fa,spruces.store,available,,,medium,low,7,,,,
 23d5a220-cb86-47dc-bbf8-ee34c0b53fd8,fluently.store,resell,,,high,low,8,"GoDaddy.com, LLC",24/09/2025 20:18,24/09/2027 23:59,26/09/2026 06:10
 f7b49745-ef22-4978-9978-e89d8ea49630,reaction.store,premium,1107,1107,high,low,8,namesilo,,,24/09/2026 14:16
 56dc2946-8627-4526-a130-10ab8e9ed06f,sensation.store,premium,1107,1107,high,low,9,namesilo,,,21/09/2026 17:34
@@ -43,14 +43,16 @@ b4dcf335-d7e6-447b-9601-4744d8c4505f,presented.store,available,,,high,low,9,,,,
 70bcc566-3b20-4375-b46e-1cd0116fb03b,escarole.store,available,,,high,high,8,,,,
 8b0ebcf9-1e45-478b-aa85-c56dbf14f5c4,ananias.store,premium,640,640,medium,low,7,namesilo,,,19/09/2026 02:03
 b2a1d301-e9de-41dd-8e64-bea2909acc6a,bill.store,premium,3450,3450,high,low,4,namesilo,,,19/09/2026 17:00
-1f68a656-ec75-4d0a-9514-59b936fb1f8e,insignificant.store,premium,156.25,,high,low,13,name.com,,,
+1f68a656-ec75-4d0a-9514-59b936fb1f8e,insignificant.store,premium,156.25,,medium,low,13,name.com,,,
 8f84c615-2400-4ca9-a44c-6bd8e15731a9,repackage.store,available,,,high,high,9,,,,
+154f4da5-72b5-4752-b920-ea93590d0d93,walpole.store,premium,81.25,325,high,low,7,namecheap,,,28/09/2026 01:54
 0eea2230-79a5-4954-a5c4-9ae2412e1a03,signatory.store,available,,,high,high,9,,,,
-bff44708-8896-449a-9d17-887700f5dc93,repolarization.store,available,,,high,low,14,,,,
+bff44708-8896-449a-9d17-887700f5dc93,repolarization.store,available,,,medium,low,14,,,,
 a7a6bdb9-5e46-4dba-a75e-04623b73b7e6,obtains.store,available,,,medium,low,7,,,,
 38aba3da-1c97-4d42-b34e-3813541c393c,baselevel.store,available,,,high,high,9,,,,
 ef77bc89-d262-4a5d-be5e-3bb38f5eed4a,dynamite.store,premium,1107,1107,high,low,8,namesilo,,,25/09/2026 22:28
 6ff4edf2-2be8-4785-a8c4-9fe5870c75a9,tactful.store,premium,156.25,625,high,low,7,name.com,,,22/08/2026 15:49
+13a559b8-5b69-4cd6-8910-87748ca44aed,wondering.store,premium,,,high,low,9,,,,28/09/2026 03:23
 d3ecbaed-6c03-4087-89a8-a98ab54b6456,computor.store,available,,,high,high,8,,,,
 3e8945f0-0e00-407a-870b-7b4a22c1e0f2,tingle.store,premium,81.25,325,high,low,6,namecheap,,,11/09/2026 16:11
 40e845c2-b739-4309-83ac-e5272b5ef1ec,reticuli.store,available,,,medium,low,8,,,,
@@ -73,6 +75,7 @@ cec73f97-7bdb-4daf-8b18-d21aa3c8239c,fascinate.store,available,,,high,low,9,,,,
 5750d5fd-0404-4c1e-ac2d-8b765d23386b,valuation.store,premium,3450,3450,high,high,9,namesilo,,,25/09/2026 15:09
 e3f64f7b-3b77-49fe-9194-c918d55608ad,smoothingly.store,available,,,high,high,11,,,,
 607efb97-61ab-4251-92c0-e496c9342d5c,viatical.store,premium,81.25,325,medium,low,8,namecheap,,,13/09/2026 05:03
+7792bdfa-9632-42b7-b5c1-1152289b9af9,horror.store,premium,,,high,low,6,,,,27/09/2026 14:08
 9649803a-bc7f-47fd-9d08-7b18cc254a7c,alkahest.store,premium,302.5,302.5,high,low,8,namesilo,,,18/09/2026 03:42
 cda8f027-0444-4682-91ba-2a64fb47b2e7,mahdi.store,available,,,high,high,5,,,,
 1b66ca88-b387-4484-bd71-699c8033fd03,quakerism.store,available,,,high,high,9,,,,
@@ -80,7 +83,7 @@ cda8f027-0444-4682-91ba-2a64fb47b2e7,mahdi.store,available,,,high,high,5,,,,
 474e34f6-785b-4db7-97ee-048525d3aa2f,hostelry.store,available,5.19,58.99,high,low,8,namesilo,,,21/09/2026 02:26
 d5092b42-9528-43e7-85e8-fac43c40f676,djinni.store,available,,,high,high,6,,,,
 fef1a2a1-1c4a-4487-8da3-06711b827b11,wettable.store,available,,,high,high,8,,,,
-20c5e088-9460-49fd-912c-000821fc3976,elucidating.store,available,,,high,low,11,,,,
+20c5e088-9460-49fd-912c-000821fc3976,elucidating.store,available,,,medium,low,11,,,,
 7c2f0d5f-88cf-4e6b-97e0-337d71c5a4af,conceptual.store,premium,781.25,3125,high,low,10,name.com,,,12/08/2026 20:05
 441a45a2-c0e3-48ce-8276-4dd0030cc817,prophecies.store,available,,,high,low,10,,,,
 0b3664ed-7dec-45da-8e3d-4de81f001831,recalculate.store,available,,,high,high,11,,,,
@@ -109,10 +112,10 @@ cf02f127-225b-4f77-a3df-eb9a7b4d0c6e,marseille.store,available,,,high,high,9,,,,
 ce05ffa6-e94e-4e60-82ec-d822bd351605,sale.store,premium,1562.5,,high,low,4,name.com,,,
 bf59f3bf-cf51-4aef-8447-036fe6b78898,photorealistic.store,available,,,high,high,14,,,,
 5e198961-b5e7-4e0c-9be1-f178e883df19,lamington.store,available,,,high,high,9,,,,
-19db6085-f52c-4b90-97ab-3f4aad4d1863,clicker.store,available,,,high,high,7,,,,
 ecae1ad4-6509-46e4-81ca-04afa4ba0c18,chanson.store,available,,,high,high,7,,,,
 102549c1-69c4-4696-9df7-cb57c0cf9ace,nonunion.store,available,0.98,43.98,high,low,8,namecheap,,,03/09/2026 20:58
 d0fbca24-bf44-4f3c-86dc-c2a1343ebdd0,eagerly.store,premium,162.5,650,high,low,7,namecheap,,,14/09/2026 14:54
+ab9af2fa-b957-4623-b6d7-0eea37cdc714,fools.store,premium,81.25,325,medium,low,5,namecheap,,,27/09/2026 23:44
 80faed34-797d-4b66-bfea-f401b24681d5,nicu.store,available,,,high,high,4,,,,
 90834b57-7604-404b-8eee-3d764a9d500b,islam.store,available,,,high,high,5,,,,
 3b158d18-72ec-4c8f-8e7c-fb2244701ea6,very.store,premium,1107,1107,high,low,4,namesilo,,,27/09/2026 09:52
@@ -149,7 +152,7 @@ a9b24a57-e21e-4b45-8428-d425f2207c39,weatherwear.store,available,,,high,high,11,
 014be1e8-3c37-4c64-a115-a2f4b2f9e711,deflated.store,premium,156.25,625,medium,low,8,name.com,,,12/08/2026 02:17
 3bf18ffa-40e0-4cf8-9b88-941708e629f4,recite.store,premium,640,640,high,high,6,namesilo,,,27/09/2026 05:58
 222a2cc2-1124-4391-b078-c959c7ec9260,bookstall.store,available,,,high,high,9,,,,
-6fe6fb17-6878-43b3-a2a6-8399e1bafbb0,cockpits.store,available,,,high,low,8,,,,
+6fe6fb17-6878-43b3-a2a6-8399e1bafbb0,cockpits.store,available,,,medium,low,8,,,,
 c57328ba-7a72-481c-af24-16784953aad4,wikisource.store,available,,,high,high,10,,,,
 687b82f0-d669-4759-8bc3-d0b74ebc5dc1,riant.store,available,0.98,43.98,high,low,5,namecheap,,,22/08/2026 20:55
 c29a3a2e-71b0-455e-a9a1-aead630bb2a6,covalency.store,available,,,high,high,9,,,,
@@ -169,7 +172,7 @@ d8aa5ebe-39ac-424a-81d7-6247ac1e2298,refrigerant.store,premium,81.25,325,high,hi
 5d7e2926-f55c-4034-a5f3-9d3f853a764a,furthermore.store,premium,640,640,high,low,11,namesilo,,,17/09/2026 08:41
 afa7818a-aaaa-491a-8ed5-25eff2f556b5,feetlong.store,available,,,high,high,8,,,,
 836f8dbe-b9a1-4399-be73-5fe4acbf43bd,misratah.store,available,,,high,high,8,,,,
-9339a3db-6052-422a-86b6-0d8ee6621a0e,countercathexis.store,available,,,high,low,15,,,,
+9339a3db-6052-422a-86b6-0d8ee6621a0e,countercathexis.store,available,,,medium,low,15,,,,
 6b535bd8-c595-485f-b0c9-d64a81cc9d51,spicing.store,available,,,medium,low,7,,,,
 087fe2f2-1c0e-4b13-9c04-78b3ae429902,dimetapp.store,available,,,high,high,8,,,,
 7cb2c4cb-e8a1-40fd-bd9f-2dea792d8390,yobo.store,premium,156.25,625,medium,low,4,name.com,,,11/08/2026 08:48
@@ -201,10 +204,10 @@ b1338db3-66f0-40b4-a52f-64e3d5b5ddbf,calligraphy.store,premium,312.5,1250,high,h
 d060bbc4-02b3-426d-b1c8-2df2dc7e485a,swivet.store,available,,,high,high,6,,,,
 9dbbb70b-dc77-4b66-85fb-25487884ff2a,stainmore.store,available,,,high,high,9,,,,
 54c5db37-bb6e-4a5d-912a-c2264335b533,weasel.store,available,,,high,high,6,,,,
-acb5fdae-17a1-43e2-9276-9e2d5ec910ad,concerning.store,available,,,high,high,10,,,,
+acb5fdae-17a1-43e2-9276-9e2d5ec910ad,concerning.store,premium,640,640,high,low,10,namesilo,,,28/09/2026 03:24
 98a33e5b-77bc-43fe-b166-a421c596e966,monkeys.store,premium,1107,1107,high,low,7,namesilo,,,17/09/2026 10:08
 e0b4ac5a-94fa-4c62-8b4b-52ba0497f435,wafting.store,available,,,high,high,7,,,,
-5ea5a1be-5db2-4fb8-b6b9-821e4c02a006,modifies.store,available,,,high,low,8,,,,
+5ea5a1be-5db2-4fb8-b6b9-821e4c02a006,modifies.store,available,,,medium,low,8,,,,
 939af3fe-a7ff-4fd9-8cc9-47832f836e0e,enemy.store,premium,1107,1107,high,low,5,namesilo,,,23/09/2026 07:51
 867f9e1f-280e-485c-8103-55ceb6ce179d,striving.store,available,,,high,high,8,,,,
 5eb1ee46-7608-4aec-83c7-d300bbbcecee,couscous.store,premium,640,640,high,high,8,namesilo,,,27/09/2026 05:53
@@ -244,7 +247,7 @@ e15dd7a1-fd7a-46e7-a162-3566f5c4b745,adamance.store,available,5.19,58.99,medium,
 20d9082c-c11e-4a10-8fca-7d715fa7cf6c,display.store,premium,3450,3450,high,low,7,namesilo,,,25/09/2026 04:58
 2d061128-19c4-40fd-afc7-cab6b72fd324,subcontracting.store,available,2.99,75.99,medium,low,14,name.com,,,
 96e78854-c6a9-4dcc-b12d-244d8207ba83,openxps.store,available,,,high,high,7,,,,
-46708ebc-c072-40c4-93a6-844b2edad45a,supernal.store,premium,81.25,325,high,low,8,namecheap,,,11/09/2026 02:23
+46708ebc-c072-40c4-93a6-844b2edad45a,supernal.store,premium,81.25,325,medium,low,8,namecheap,,,11/09/2026 02:23
 5f6410f9-33fe-4a3e-90c3-99209dd864ab,selfcleaning.store,available,,,high,high,13,,,,
 f935dce3-19f8-42ef-a7df-733bccbc7213,phillip.store,premium,3450,3450,high,low,7,namesilo,,,17/09/2026 13:24
 214fb192-cb08-42d0-8b85-8cb7fa79c370,jussieu.store,available,5.19,58.99,high,low,7,namesilo,,,19/09/2026 15:24
@@ -275,7 +278,7 @@ a06b91b4-1a41-4898-9872-0875697b3e9a,sugary.store,premium,302.5,302.5,high,low,6
 3549bf2b-3c5b-4ff7-a954-0b9762d4632c,soulfully.store,available,2.99,75.99,high,low,9,name.com,,,16/09/2026 05:30
 7dcc20f5-7f43-4c0f-97fe-3e5707c888d7,backspace.store,premium,325,1300,high,low,9,namecheap,,,21/09/2026 16:01
 51150923-b76f-4dfe-840d-05801bb70730,enchanted.store,resell,,,high,low,9,Squarespace Domains LLC,01/02/2024 02:35,01/02/2027 23:59,26/09/2026 05:50
-eaa427ba-81e5-426b-a733-b6c831ff3cf9,antrum.store,available,0.98,43.98,high,low,6,namecheap,,,19/09/2026 15:46
+eaa427ba-81e5-426b-a733-b6c831ff3cf9,antrum.store,available,0.98,43.98,medium,low,6,namecheap,,,19/09/2026 15:46
 bfa43638-eb94-4b55-aa4c-1a71c8d4bf6f,phonemic.store,premium,81.25,325,high,low,8,namecheap,,,08/09/2026 19:02
 8d5be44b-da75-4d14-82cf-8cab15fcc22c,butylacetate.store,available,,,high,high,12,,,,
 07e5f67f-5e03-4399-a0c7-ccba33f122c2,dessiatine.store,available,,,high,high,10,,,,
@@ -309,7 +312,7 @@ ba49aa6d-e008-48f5-8897-db9cc22cc8ed,spicebush.store,available,5.19,58.99,high,l
 91ca4102-e159-4853-8baf-9ba9559762f6,connote.store,available,,,high,high,7,,,,
 4a8400da-f215-467f-822b-062a23e6f2f5,lightray.store,available,,,high,high,8,,,,
 f978bb40-2104-423d-a069-314c1efdf7bc,afrikaner.store,premium,156.25,625,high,low,9,name.com,,,
-ce6ac739-6854-40fa-bc05-35e16047c8c2,yolks.store,available,,,high,low,5,,,,
+ce6ac739-6854-40fa-bc05-35e16047c8c2,yolks.store,available,,,medium,low,5,,,,
 8306e3d3-dbbc-4fd4-91d9-5dee7538b8c9,anecdotally.store,available,,,high,high,11,,,,
 fca1ba93-ff3e-4a64-9d56-cbdeae7df5e6,connaisseuse.store,available,,,high,high,12,,,,
 2805c6b0-876e-470b-bb9c-7543115749da,kentan.store,available,,,high,high,6,,,,
@@ -322,7 +325,7 @@ b153e79a-d900-4812-bed6-58bb2bdc6151,tangolike.store,available,,,high,high,9,,,,
 1f5f209f-aa14-4969-a247-8bd071cf642b,backal.store,available,,,high,high,6,,,,
 bfbb2682-a508-4d95-8ac1-f0494e59733b,convenient.store,premium,3450,3450,high,low,10,namesilo,,,23/09/2026 15:48
 b546d0d1-b460-4766-aceb-3c6d26ed5e81,sandancer.store,available,,,high,high,9,,,,
-5bcb1990-0ba4-4ed5-b802-bc7b6ba697cd,cooperate.store,premium,81.25,325,high,high,9,namecheap,,,27/09/2026 06:11
+5bcb1990-0ba4-4ed5-b802-bc7b6ba697cd,cooperate.store,premium,81.25,325,high,low,9,namecheap,,,27/09/2026 16:33
 ed5311c8-3cec-4e39-a46c-af0333c6c817,outlay.store,premium,302.5,302.5,high,high,6,namesilo,,,27/09/2026 06:19
 2e2ce061-3bc3-4548-aad4-18d546b0eea4,pruninghook.store,available,,,high,high,12,,,,
 b8661f91-b49c-4a83-9eda-3d6048f7de7e,guadeloupe.store,available,,,high,high,10,,,,
@@ -331,12 +334,13 @@ b8661f91-b49c-4a83-9eda-3d6048f7de7e,guadeloupe.store,available,,,high,high,10,,
 2994dad1-666d-45fc-9a02-be34f9665b17,horsehood.store,available,,,high,low,9,,,,
 f0bfe624-e55e-4dfb-85b0-1499788a2248,kleberg.store,available,,,high,high,7,,,,
 578e68e5-f8ad-4872-9baf-5e2a6ad0f090,twitterer.store,available,,,high,medium,9,,,,
+f3ded963-1216-4ad7-8c22-81b1969e3d0c,liar.store,premium,258.95,1035.2,high,low,4,spaceship,,,27/09/2026 14:44
 870f5489-0b50-44b6-8154-b9bd5ef80a8a,lored.store,available,,,high,high,5,,,,
 cb4f1960-5ae0-446d-b634-2884a63dc0e7,surmount.store,available,,,high,high,8,,,,
 4bb86638-1485-44a0-9f36-523545e0a7c3,recharter.store,available,,,high,high,9,,,,
 bf4894ca-d622-4d8e-908b-90b3166b4ef0,antitrade.store,available,5.19,58.99,high,low,9,namesilo,,,19/09/2026 15:13
 fe89a23b-117e-4730-af79-2a6078a2afa0,cremes.store,available,,,high,low,6,,,,
-a58fc4c1-6d77-4fde-8a2a-b9ea75e7c5e0,passers.store,available,,,high,low,7,,,,
+a58fc4c1-6d77-4fde-8a2a-b9ea75e7c5e0,passers.store,available,,,medium,low,7,,,,
 71b11bd6-d071-4cde-b331-1c6c1219fdbb,indies.store,available,,,high,high,6,,,,
 f835ae05-ce91-4d1a-8bc9-e4b95ce5b0bc,stansfield.store,available,,,high,high,10,,,,
 bf8e6762-1e24-44ab-8ffc-8b9d8619ec51,noodledom.store,available,,,high,low,9,,,,
@@ -347,25 +351,27 @@ c7828b8a-a0fe-4131-8fe5-e05dc5debde5,birretta.store,available,5.19,58.99,medium,
 b0c8f8ea-275c-4f87-a456-3e2e7493c128,vending.store,premium,1107,1107,high,high,7,namesilo,,,27/09/2026 06:05
 a792c365-ce7a-42b2-89cc-b7121c1a48d5,dueller.store,available,,,high,high,7,,,,
 a4eda573-608c-4ba2-8014-cd67dd4a6bb7,skittles.store,available,,,high,high,8,,,,
-5e2b536a-6977-4769-a349-a3d48ed2d28f,xerophytism.store,available,,,high,low,11,,,,
+5e2b536a-6977-4769-a349-a3d48ed2d28f,xerophytism.store,available,,,medium,low,11,,,,
 4cfd0fab-d200-4ee2-9a05-638a76af410a,quinoline.store,available,,,high,high,9,,,,
 da34cba6-3dde-4be6-b246-955fc50a113a,tortrix.store,available,0.98,43.98,high,low,7,namecheap,,,20/09/2026 05:04
+d91bf713-e83f-4c7a-9b77-3c7f92dedfe0,drowning.store,premium,302.5,302.5,high,low,8,namesilo,,,27/09/2026 17:38
 09149632-b641-48f5-b1b6-25f3ec1b9df5,points.store,available,,,high,low,6,,,,
 2e4c960c-6f36-42c7-b450-9b2cf4bbdb34,hiyo.store,available,,,high,high,4,,,,
 5f8b23e4-0057-4984-8822-a414aa179d89,emmalee.store,available,,,high,medium,7,,,,
 b4e747bb-89d3-4a48-9a42-df628606fa71,weststellingwerf.store,available,,,high,high,16,,,,
 cd5cc471-35ed-40c7-9377-5f3052377901,authorized.store,premium,1107,1107,high,low,10,namesilo,,,22/09/2026 13:48
 0e3e001f-c3c9-4a4a-b31f-1f7d9f11cbe6,dimension.store,premium,1107,1107,high,low,9,namesilo,,,21/09/2026 02:17
-cba1e5d6-bdc5-403c-be33-95f26fbcc15b,clip.store,premium,812.5,3250,high,high,4,namecheap,,,27/09/2026 05:40
+cba1e5d6-bdc5-403c-be33-95f26fbcc15b,clip.store,premium,812.5,3250,high,low,4,namecheap,,,28/09/2026 01:38
 d73028e1-627a-4e9e-a7d5-ea0611885a08,nanoenzyme.store,available,,,high,high,10,,,,
 dc10093e-1dab-4f66-bdb7-322603f4f229,leaders.store,premium,781.25,,high,low,7,name.com,,,
-7774f481-f1c6-4975-b394-db53e031bb48,understood.store,premium,78.12,,high,low,10,name.com,,,
+7774f481-f1c6-4975-b394-db53e031bb48,understood.store,premium,78.12,,high,low,10,name.com,,,28/09/2026 02:13
 db999bc9-2620-4d62-8eeb-71075c40ddaf,heartiest.store,available,,,medium,low,9,,,,
 354bc749-6576-4465-8dee-42f74d4992a5,orbitual.store,available,0.98,43.98,medium,low,8,namecheap,,,04/09/2026 17:39
-43b31062-5159-4718-ac99-07679a11f948,sunless.store,premium,312.5,1250,high,low,7,name.com,,,12/08/2026 12:31
+43b31062-5159-4718-ac99-07679a11f948,sunless.store,premium,312.5,1250,medium,low,7,name.com,,,12/08/2026 12:31
 257b3db4-28c0-41c5-ac60-6482ade64a83,coprincipal.store,available,,,high,high,11,,,,
 ce3dfa0f-53ee-4776-a6b2-7ad06f5ca7af,fulgent.store,premium,78.12,312.5,high,low,7,name.com,,,10/08/2026 13:45
-5f9cf3ae-7009-47e1-936e-6877c50daf16,rigid.store,premium,78.12,,high,low,5,name.com,,,
+5f9cf3ae-7009-47e1-936e-6877c50daf16,rigid.store,premium,68.75,273.44,high,low,5,porkbun,,,27/09/2026 15:17
+7ac29229-758f-4877-869f-92b55ab6e24f,doi.store,premium,500.2,,high,low,3,unstoppable,,,28/09/2026 01:47
 179e3297-92f4-4625-b35f-8970c07317df,rag.store,premium,325,1300,high,low,3,namecheap,,,24/09/2026 12:22
 2f3fce73-97c7-42fb-b1ab-d6af6cbfe71d,shelling.store,premium,640,640,high,low,8,namesilo,,,22/09/2026 08:00
 80499e37-8a05-45aa-9bd2-bfcadef4ccc8,tupping.store,available,,,high,low,7,,,,
@@ -382,10 +388,10 @@ dbd6d688-f81e-4b5a-92c0-7b6b4646e7ad,jazz.store,premium,781.25,,high,low,4,name.
 a71150d7-9d49-4ca9-948e-474d24687971,preapprenticeship.store,available,,,high,high,18,,,,
 5c2744a2-d479-4235-a616-f910b045fb1d,foreword.store,available,,,high,high,8,,,,
 586bc258-2359-46f0-ba72-d484daa9faa2,disjunct.store,available,0.98,43.98,medium,low,8,namecheap,,,14/08/2026 11:25
-706fd840-d148-48f2-a4fb-264e146ee341,impolite.store,premium,78.12,312.5,high,low,8,name.com,,,21/08/2026 22:43
+706fd840-d148-48f2-a4fb-264e146ee341,impolite.store,premium,78.12,312.5,medium,low,8,name.com,,,21/08/2026 22:43
 03fd5356-b1ef-4b22-a497-390dc4de105c,attests.store,available,,,medium,low,7,,,,
 c75e9530-c722-494e-85f9-03429b4c2d9c,cherrystone.store,available,,,high,high,11,,,,
-7efa8bed-baeb-475e-9ca8-b13a9d793e2e,cooperative.store,available,,,high,high,12,,,,
+7efa8bed-baeb-475e-9ca8-b13a9d793e2e,cooperative.store,premium,162.5,650,high,high,12,namecheap,,,28/09/2026 02:16
 db581e8d-e221-455f-9a6b-26efc6f26942,carillon.store,available,,,high,high,8,,,,
 5f7500cf-ca0f-4d47-b0e0-ec119a9bc497,sessile.store,available,0.98,43.98,medium,low,7,namecheap,,,10/09/2026 04:59
 c137a581-065c-42fe-9254-d7613816f3e8,coaxing.store,available,,,high,high,7,,,,
@@ -394,7 +400,7 @@ d7175f6b-73fa-40fd-ac31-327b7294d743,platinum.store,premium,3450,3450,high,low,8
 d59cb0a7-500b-4edd-baf5-3587c5fe2e1f,skydived.store,available,,,medium,low,8,,,,
 801e4615-cb68-40b2-a841-2046fec1ca37,animal.store,premium,781.25,3125,high,low,6,name.com,,,08/09/2026 11:39
 30959796-bdb8-444e-b23e-2b17563bf801,semiannually.store,available,,,high,high,12,,,,
-b76888cd-d7ba-45ac-8b58-45ad35eee78c,wong.store,premium,3450,3450,high,low,4,namesilo,,,26/09/2026 03:13
+b76888cd-d7ba-45ac-8b58-45ad35eee78c,wong.store,premium,3450,3450,medium,low,4,namesilo,,,26/09/2026 03:13
 ccdb066c-8d79-48e6-a91d-7f5c9eae0a84,unrealized.store,premium,162.5,650,high,low,10,namecheap,,,12/09/2026 11:00
 fe0d37fb-b973-4955-b71a-5992d6672ada,prat.store,premium,78.12,312.5,medium,low,4,name.com,,,09/08/2026 11:18
 73d1b68d-1dc3-415c-8a9e-d9e9fa8b1011,carburettor.store,available,,,high,high,11,,,,
@@ -402,7 +408,7 @@ f70fa141-c31f-44f1-b8d6-dba02f783d69,letterals.store,available,,,medium,low,9,,,
 1d3fc132-d6d0-4238-a2e9-755e1adbc538,textiles.store,available,,,high,medium,8,,,,
 d849fd7e-b9b9-40ce-beae-88be6051d9b0,puckett.store,available,,,high,high,7,,,,
 9b05f4e3-b3f3-4efc-b0a5-0330a854ec58,takers.store,available,,,high,low,6,,,,
-414d4103-e019-435d-a217-87371604f2a9,deprave.store,available,0.98,43.98,high,low,7,namecheap,,,13/08/2026 02:24
+414d4103-e019-435d-a217-87371604f2a9,deprave.store,available,0.98,43.98,medium,low,7,namecheap,,,13/08/2026 02:24
 b7abd3be-953c-4c43-aa49-3f82575c3a3b,unroll.store,available,,,high,high,6,,,,
 414655c1-0860-44fd-bb63-e2ad40102ea8,orcs.store,available,,,high,medium,4,,,,
 3b16b44a-ce37-4a48-b475-37ce4a05d026,waiver.store,available,,,high,high,6,,,,
@@ -450,10 +456,9 @@ a39dde64-3810-45a5-bd91-3420b70c21d0,snowshoes.store,available,,,high,low,9,,,,
 080debfa-3e0d-41b1-895e-0d4ccccf3a94,alphabetized.store,available,,,high,low,12,,,,
 21ab6ab5-3a80-439d-bbd1-357618c6f832,qai.store,available,,,high,high,3,,,,
 18770cc9-b303-4a9e-b0b4-385b9c00abbb,activated.store,premium,325,1300,high,low,9,namecheap,,,21/09/2026 16:32
-06e5aec0-f576-43a4-9fe1-9ae54b3367c4,knitters.store,available,,,high,low,8,,,,
+06e5aec0-f576-43a4-9fe1-9ae54b3367c4,knitters.store,available,,,medium,low,8,,,,
 33d26531-bd40-48da-aa90-aeb3d925d8cc,punctured.store,available,0.98,43.98,high,low,9,namecheap,,,08/09/2026 16:56
 a3588969-1fb7-42f1-b585-1e8aee197997,orient.store,available,,,high,high,6,,,,
-496520ff-348e-45bb-b0b5-d3614c899497,actor.store,premium,156.25,,high,low,5,name.com,,,
 87a26a5e-a177-43ad-809d-bf0bccc501bf,neoassyrian.store,available,,,high,high,12,,,,
 abbb19eb-6f06-4e66-9480-c2fb5de51652,enchiladas.store,available,5.19,58.99,high,low,10,namesilo,,,25/09/2026 09:44
 40917da5-3efc-4ebb-ae9d-f739bcf573f0,edemocracy.store,available,,,high,high,11,,,,
@@ -463,7 +468,7 @@ c3cbe112-914c-4e0c-8056-5aa497a2aa4c,coppice.store,available,,,high,high,7,,,,
 aaaccbf3-6a57-4d32-88c7-9e7c9f061c54,num.store,available,,,high,high,3,,,,
 f1c73324-2918-4c75-a3c7-42436969fb75,suntan.store,premium,81.25,325,high,low,6,namecheap,,,11/09/2026 07:52
 094aa4b4-88fc-483c-8010-c3e57aa1f143,presoak.store,available,,,high,high,7,,,,
-7e466d5d-8e6e-4a9c-b5b5-684e1a828feb,thermocouples.store,available,,,high,low,13,,,,
+7e466d5d-8e6e-4a9c-b5b5-684e1a828feb,thermocouples.store,available,,,medium,low,13,,,,
 9dd9b3a5-3714-4a7f-9807-4e6361ad82a9,overactive.store,premium,78.12,312.5,high,low,10,name.com,,,21/08/2026 16:42
 4ce04d83-5d86-4739-b9e1-c32d692410f1,breezing.store,available,,,high,high,8,,,,
 76109c77-12f6-4f1f-80d8-35ba4d4ba8eb,vodcast.store,available,,,high,high,7,,,,
@@ -484,12 +489,12 @@ f1b702c8-7633-4657-9d17-4a05c10e4856,bottling.store,available,,,high,high,8,,,,
 b271c345-7d02-4fe0-81fb-9e78b3426086,outrageousness.store,available,,,high,high,14,,,,
 09f2e439-47de-4475-b869-0da8241dee03,woncha.store,available,,,high,high,6,,,,
 961bb8fd-1ef4-4ee7-b017-500cbadac2cd,hungered.store,available,,,high,high,8,,,,
-e23c2a3f-8e9a-4d2a-a808-ceb6c972e440,dominating.store,premium,78.12,312.5,high,low,10,name.com,,,07/08/2026 19:40
+e23c2a3f-8e9a-4d2a-a808-ceb6c972e440,dominating.store,premium,78.12,312.5,medium,low,10,name.com,,,07/08/2026 19:40
 5771a92a-ae9d-428d-89ea-087201d72b7f,christianity.store,available,,,high,high,12,,,,
 64046f16-fb4f-49eb-ac6e-aa139d7fec55,suggested.store,premium,81.25,325,high,low,9,namecheap,,,18/09/2026 13:48
 7ecb3dfc-b6dd-4f35-839d-d075b6fcb3bb,windsor.store,premium,781.25,,high,low,7,name.com,,,
 1b748dce-0dd6-4e50-a52a-441b2701351e,coulda.store,available,,,high,high,6,,,,
-93e84b82-7be6-4673-a727-0e686e051401,shaves.store,available,,,high,low,6,,,,
+93e84b82-7be6-4673-a727-0e686e051401,shaves.store,available,,,medium,low,6,,,,
 ee2b3b9d-95a9-48f1-a254-67d38990c0e8,matrimony.store,available,,,high,high,9,,,,
 43415eeb-5a5d-4cd8-bc5d-40c3554cd85b,exiguous.store,available,0.98,43.98,medium,low,8,namecheap,,,17/08/2026 17:18
 121cf7c1-235b-4292-808c-fdc7ba204e17,nst.store,available,,,high,medium,3,,,,
@@ -515,7 +520,7 @@ fbbb9790-1a62-4f7d-8d5c-1b051948f727,treater.store,available,,,high,high,7,,,,
 4b638606-03bb-4313-be9e-1300de11b9f4,vols.store,premium,1107,1107,medium,low,4,namesilo,,,27/09/2026 11:41
 068d2037-f130-49fe-9084-a0731cb4a4eb,eerie.store,available,0.98,43.98,high,low,5,namecheap,,,15/08/2026 12:43
 fb125ccb-cb4a-4c5c-9bdd-e4de65e2f5b0,cruised.store,available,,,high,high,7,,,,
-67724f6f-1fc5-402c-b834-d6cf87fe7167,immunize.store,available,,,high,high,8,,,,
+67724f6f-1fc5-402c-b834-d6cf87fe7167,immunize.store,premium,64.89,258.95,high,high,8,spaceship,,,28/09/2026 02:21
 3c908e55-179b-4898-a48b-8d17c71d6828,subvariety.store,available,,,high,high,10,,,,
 6bb9f4cd-0529-48b2-b03c-8713f313cb46,bows.store,available,,,high,low,4,,,,
 31246689-4346-4fea-984a-0dbb811652ad,weymouth.store,available,,,high,high,8,,,,
@@ -531,13 +536,13 @@ ddbea194-88e3-43bf-aaa9-a9fe9902c008,timestamped.store,available,,,high,high,11,
 62348987-d81e-4f95-a1ab-edac456dd87d,kittie.store,available,,,high,high,6,,,,
 d497b1cf-6e0d-44f7-96ea-4d6bd30e7805,glycogen.store,premium,325,1300,high,low,8,namecheap,,,19/09/2026 08:46
 a348ea14-892f-4f83-8d93-0c07504f4987,russophile.store,available,,,high,high,10,,,,
-54e47cf8-0456-46ce-83f0-78567f5875ef,orpine.store,premium,78.12,312.5,high,low,6,name.com,,,24/08/2026 07:58
+54e47cf8-0456-46ce-83f0-78567f5875ef,orpine.store,premium,78.12,312.5,medium,low,6,name.com,,,24/08/2026 07:58
 bc87775f-9698-40ee-8afc-80d85a5aeb77,jerseys.store,available,,,high,low,7,,,,
 dc730896-b50e-4d93-bdf9-b75cbbd99243,saxophonist.store,available,,,high,high,11,,,,
 8d896c3d-660a-4627-aead-8f330bc7d941,croat.store,available,0.98,43.98,high,low,5,namecheap,,,13/08/2026 07:34
 dc8c2a98-6d7b-4521-ae0f-a93a30fbdaca,bambusa.store,premium,81.25,325,high,low,7,namecheap,,,22/09/2026 00:41
 c5723a49-fbb9-440d-938a-1dfb93dc803b,goldsmithery.store,available,,,high,high,12,,,,
-dbe850b4-ba5c-4816-9166-c559ee965897,masoud.store,premium,81.25,325,high,low,6,namecheap,,,17/09/2026 20:25
+dbe850b4-ba5c-4816-9166-c559ee965897,masoud.store,premium,81.25,325,medium,low,6,namecheap,,,17/09/2026 20:25
 f8c49956-2c66-4891-bf3e-2a84b640d5d7,decompress.store,available,,,high,high,10,,,,
 8be08047-52ee-4d2f-a49e-dd6b64e2be57,tended.store,premium,302.5,302.5,medium,low,6,namesilo,,,18/09/2026 22:30
 3e58fdd2-da0e-497f-a216-1c758e9577ec,maledict.store,available,0.98,43.98,medium,low,8,namecheap,,,
@@ -571,6 +576,7 @@ cd36ef7f-714a-4031-94d1-bccbad0a8454,flying.store,premium,3450,3450,high,low,6,n
 7d98ac48-0ff2-4090-97b4-7e29011ca858,nsda.store,available,,,high,high,4,,,,
 71c010bc-16ba-4b14-82a7-8a4518a4d1d5,endgames.store,available,,,high,low,8,,,,
 ab14aa30-152c-4df6-9260-1267797b107b,tremendously.store,available,,,high,high,12,,,,
+bec12101-eaf5-4c19-8f56-f23cd20817d4,convicted.store,premium,64.89,258.95,medium,low,9,spaceship,,,27/09/2026 23:23
 92067192-54d4-4301-be73-abeee3517be7,width.store,available,,,high,high,5,,,,
 99be082f-570b-4052-8b3c-e05ee17c1b8a,simulate.store,premium,156.25,625,high,low,8,name.com,,,10/09/2026 05:48
 2d01158d-3c11-4af8-87e3-392341950bb7,erestitution.store,available,,,low,low,13,,,,
@@ -625,7 +631,7 @@ f2ddb38c-191a-49e8-8e73-250fde75377b,polytechnics.store,available,,,high,low,12,
 d21c7a7c-51ee-4cf6-8ee2-4409afcad082,ailanthus.store,available,0.98,43.98,high,low,9,namecheap,,,17/09/2026 21:07
 470a70e3-c4b8-4beb-ac15-1755172b80c6,unkempt.store,available,0.98,43.98,medium,low,7,namecheap,,,12/09/2026 14:07
 6eb93c4e-a372-44de-b0b5-0f8271b0603c,waw.store,available,,,high,high,3,,,,
-e28e17e9-0f69-4080-947f-1932c9469d70,jetstreams.store,available,,,high,low,10,,,,
+e28e17e9-0f69-4080-947f-1932c9469d70,jetstreams.store,available,,,medium,low,10,,,,
 be3a6aea-7e33-4d4d-835a-8529c7da095c,snowmobile.store,available,,,high,high,10,,,,
 de4534cb-3460-4493-ba58-2ba40c787c80,concocted.store,available,,,high,low,9,,,,
 0e6f246e-2da3-41d9-8a59-70cded278a5a,picnicker.store,available,,,high,high,9,,,,
@@ -634,7 +640,7 @@ e14895c2-3d1b-4d50-bf39-84730abf7bd0,outcome.store,premium,78.12,,high,low,7,nam
 d283a2e2-f810-41eb-96cb-8dc0d7f5e6f9,winter.store,premium,3450,3450,high,low,6,namesilo,,,25/09/2026 11:04
 b14ab868-3055-4ace-8f30-9ae46ae3e751,coltauco.store,available,,,high,high,8,,,,
 79cd24b9-4868-4ac1-bb31-634ce2047fa5,counterclockwise.store,available,,,high,low,16,,,,
-efdcc80a-5ce4-4a6b-a76a-f5e4393474a0,ashes.store,premium,3450,3450,high,low,5,namesilo,,,27/09/2026 09:10
+efdcc80a-5ce4-4a6b-a76a-f5e4393474a0,ashes.store,premium,3450,3450,medium,low,5,namesilo,,,27/09/2026 09:10
 68401448-6046-43c5-9c29-008fbcccea5f,rand.store,resell,,,high,low,4,Squarespace Domains LLC,18/12/2023 00:26,18/12/2026 23:59,26/09/2026 08:29
 26f48971-df26-4585-9fb7-af91f8debb29,empathically.store,available,,,high,high,12,,,,
 071aeae3-4ee6-4a40-82dc-8a1e0b383ade,although.store,premium,156.25,,high,low,8,name.com,,,
@@ -669,8 +675,8 @@ b7b2188a-4b01-494a-a810-e8fc27d51a71,accountably.store,available,,,high,high,11,
 e87c6fdb-e08d-49e8-ba2d-292dd94a8768,midtracheal.store,available,,,medium,low,11,,,,
 6e5142dd-3306-4875-bc65-3e6e0b266877,nra.store,available,,,high,high,3,,,,
 c16ad7b9-f66a-4325-b9c0-0061cf1f7880,makayla.store,available,,,high,high,7,,,,
-7dfd5cfb-7d01-4862-869b-9635007dcb3d,aperiodic.store,available,0.98,43.98,high,low,9,namecheap,,,05/08/2026 22:30
-90baf33b-a1ef-4695-afcd-388eb5928c7d,unadjusted.store,available,0.98,43.98,high,low,10,namecheap,,,11/09/2026 23:52
+7dfd5cfb-7d01-4862-869b-9635007dcb3d,aperiodic.store,available,0.98,43.98,medium,low,9,namecheap,,,05/08/2026 22:30
+90baf33b-a1ef-4695-afcd-388eb5928c7d,unadjusted.store,available,0.98,43.98,medium,low,10,namecheap,,,11/09/2026 23:52
 84812d39-40f1-47dc-8613-33aef84819a0,contorted.store,available,0.98,43.98,high,low,9,namecheap,,,12/08/2026 23:22
 be50be59-b68a-4b8f-891b-6430e627618e,tighter.store,available,,,high,high,7,,,,
 7370b840-60e8-4494-b35e-e36665d7cad1,spice.store,premium,781.25,,high,low,5,name.com,,,
@@ -692,22 +698,22 @@ fbaff063-a9e6-4e1c-9077-f597b5901e9c,nuckolls.store,available,,,high,high,8,,,,
 a3562f5b-0d7d-489a-a47a-dea4c6617951,cinema.store,premium,812.5,3250,high,low,6,namecheap,,,23/09/2026 07:48
 a26cb7f8-a12d-4117-9f77-0dc63faf1438,smidgeons.store,available,,,low,low,9,,,,
 b1a71b09-1d76-4241-82cf-b6f7d9f64344,feminist.store,premium,312.5,1250,high,low,8,name.com,,,18/08/2026 01:02
-406dd28d-0a9f-412c-8ae1-50f29565c369,chankonabe.store,available,,,high,low,10,,,,
+406dd28d-0a9f-412c-8ae1-50f29565c369,chankonabe.store,available,,,medium,low,10,,,,
 b095d4c2-f5a5-4244-a27b-785c3f615490,freeways.store,available,,,high,low,8,,,,
 483b44ad-b8da-4147-852c-ee66a873d49b,goostrey.store,available,,,high,high,8,,,,
 0fa5f88a-2578-4595-b8b2-fb35a70aad3a,stacee.store,available,,,high,high,6,,,,
 5447e4ac-54b6-4526-8341-14f7076c37cd,melodrama.store,available,,,high,high,9,,,,
 cdd8afef-09c0-4af7-898d-442b2a55ccb2,potawatomis.store,available,,,medium,low,11,,,,
 fc43ea3e-1e9a-49d0-81bf-9cd34a3175c3,bimodal.store,premium,156.25,625,high,low,7,name.com,,,09/08/2026 23:23
-e8cf79a2-c56d-4c7e-bc04-6ce2bba81028,iddm.store,premium,640,640,high,low,4,namesilo,,,21/09/2026 06:41
+e8cf79a2-c56d-4c7e-bc04-6ce2bba81028,iddm.store,premium,640,640,medium,low,4,namesilo,,,21/09/2026 06:41
 f147c965-4de1-4536-951b-3e90be256bf1,supramental.store,available,,,high,high,11,,,,
 d31ee64d-59dd-46eb-a7a6-7f4891c4d330,washingtonian.store,available,,,high,high,13,,,,
-7ac9e311-4d4f-4bb6-9923-f93b98e15353,nullity.store,premium,81.25,325,high,low,7,namecheap,,,13/09/2026 06:33
+7ac9e311-4d4f-4bb6-9923-f93b98e15353,nullity.store,premium,81.25,325,medium,low,7,namecheap,,,13/09/2026 06:33
 e1dbae1f-4118-4ba7-928d-c6f4a016ce86,ionisation.store,available,,,high,high,10,,,,
 13032e3a-2881-45ed-943a-6750c2fadc6c,defensive.store,premium,156.25,625,high,low,9,name.com,,,13/08/2026 23:15
 08743ed2-5e69-4100-8f86-4bbfecb076bd,joy.store,premium,781.25,,high,medium,3,name.com,,,
 b4417af0-f553-4c60-95e9-2c95d32b03f0,expository.store,available,0.98,43.98,high,low,10,namecheap,,,17/08/2026 18:39
-6e91d301-1a2a-4acf-92c2-4b4d55961aa8,cadences.store,available,,,high,low,8,,,,
+6e91d301-1a2a-4acf-92c2-4b4d55961aa8,cadences.store,available,,,medium,low,8,,,,
 4a2e512f-89ff-40fc-a26b-6b44b14bf038,arguable.store,premium,156.25,625,high,low,8,name.com,,,06/08/2026 18:32
 0f6f94bb-ce7d-4a08-b6ba-a1a9b16d73b0,reefed.store,available,,,high,high,6,,,,
 b8e64c1f-ded7-47d5-9426-0a8f17abf86b,happen.store,premium,3450,3450,high,low,6,namesilo,,,25/09/2026 06:00
@@ -752,7 +758,7 @@ ce2e9369-3371-4b0e-b41e-5ce656de2b4b,assembling.store,premium,162.5,650,high,low
 4eefd47a-5053-4de0-b269-75a651d046ce,chooser.store,available,,,high,high,7,,,,
 b74afd98-641e-4ede-88af-fde4b59fce65,billet.store,resell,,,high,low,6,Squarespace Domains LLC,28/11/2022 15:57,28/11/2026 23:59,26/09/2026 04:25
 cc01cebc-c163-4736-8fe3-b7feeb8407c4,glassed.store,premium,78.12,312.5,high,low,7,name.com,,,20/08/2026 14:07
-42f32d0d-c08c-4ac5-9aa8-d7478221d493,curlers.store,available,,,high,low,7,,,,
+42f32d0d-c08c-4ac5-9aa8-d7478221d493,curlers.store,available,,,medium,low,7,,,,
 f0e09f15-ce43-482c-a462-87289f3f6e03,lefty.store,available,,,high,high,5,,,,
 ef310932-a001-4107-b2f4-a684008409b6,catchball.store,available,,,high,high,9,,,,
 2d37af7d-a470-4e5a-9b9b-a77de1efeba1,neurologic.store,premium,81.25,325,high,low,10,namecheap,,,03/09/2026 16:16
@@ -793,6 +799,7 @@ ff86c9d5-909f-46ea-b2d0-f14ab9f9875b,colourate.store,available,,,high,high,9,,,,
 761c7c62-d8f6-42d2-bacb-1d28fbc77785,intine.store,available,,,high,high,6,,,,
 5f03d6fd-9033-47f3-8f9b-d2781d0095ce,ada.store,resell,,,high,medium,3,"GoDaddy.com, LLC",14/06/2016 16:00,14/06/2027 23:59,26/09/2026 01:22
 68037155-0378-44b4-a6b0-9754708b7194,bytecodes.store,available,,,high,low,9,,,,
+e5644f0a-ffdc-4ca3-ac6e-534b8c1f53b3,symptoms.store,premium,129.58,517.7,medium,low,8,spaceship,,,27/09/2026 22:08
 eb85fa95-c654-41c2-8369-6acebeef63bb,destinee.store,available,,,high,medium,8,,,,
 39df2e1c-bb44-40d2-814a-522c6adbd75c,friendom.store,available,,,high,high,8,,,,
 288459a0-c83d-45e2-8218-dc4a2d89e845,potsticker.store,available,,,high,high,10,,,,
@@ -864,7 +871,7 @@ a7b7ddbd-d0db-4646-8598-6b82c5f9559d,agonist.store,premium,162.5,650,high,low,7,
 87d6a9f1-0aca-4ea3-bf97-e765ae2e9fd7,spamblock.store,available,,,high,high,9,,,,
 e3c9ef99-95e4-4d86-95f6-ed0fcbc31143,scarborough.store,premium,640,640,high,medium,11,namesilo,,,25/09/2026 13:47
 a0332a9d-8d31-481d-8561-ea31846a7354,biblical.store,premium,781.25,3125,high,low,8,name.com,,,09/08/2026 18:53
-c1d84cce-b0a3-4676-9e8b-910ff08ed3f3,rosie.store,premium,81.25,325,high,high,5,namecheap,,,27/09/2026 06:06
+c1d84cce-b0a3-4676-9e8b-910ff08ed3f3,rosie.store,premium,302.5,302.5,high,low,5,namesilo,,,27/09/2026 19:47
 f588d0df-d02b-4575-8dd6-971fcb6b64b1,footnotes.store,available,,,high,medium,9,,,,
 4aa46b5e-c190-4778-9922-05b78be9dd47,deduplicate.store,available,,,high,high,11,,,,
 df63793f-a30c-437a-9dcd-c0ee7e37ebf6,handworked.store,available,,,high,high,10,,,,
@@ -876,7 +883,7 @@ d60109e5-8a37-4c30-93bd-3edf97430d45,frenchify.store,available,,,high,high,9,,,,
 b6b78599-e3f6-4ae2-9c4d-29dd72d8aa3e,cataloguers.store,available,,,medium,low,11,,,,
 b10ddc7d-8cd0-45e6-bfc9-7560bb48320c,orangeade.store,available,,,high,high,9,,,,
 9eb9995e-da5c-487e-b905-74ac07d7a884,valediction.store,available,,,high,high,11,,,,
-eec72ee8-646d-4e34-bf63-30c0da808adf,felicity.store,available,,,high,high,8,,,,
+eec72ee8-646d-4e34-bf63-30c0da808adf,felicity.store,premium,640,640,high,high,8,namesilo,,,28/09/2026 02:18
 87ec8009-928b-4f66-8750-2f12d61d0a3d,runpast.store,available,,,high,high,8,,,,
 e8588c70-f96b-4aa4-a49d-6f46639a561f,canoe.store,premium,312.5,,high,low,5,name.com,,,
 69698707-f64d-4957-bd61-d89b22093efe,kilobyte.store,premium,78.12,,high,low,8,name.com,,,
@@ -915,7 +922,7 @@ a7b9e786-50eb-4e96-ab24-0a37a3ff3837,betty.store,available,,,high,high,5,,,,
 2562420e-80f5-4514-a83e-c7835e15dace,sell.store,premium,1562.5,,high,medium,4,name.com,,,
 1e291143-a2dd-4543-ae52-06e3efef526f,roflmao.store,available,,,high,high,7,,,,
 f95c2d99-ddd3-4526-a7f5-8277f434b4fd,shorebird.store,available,,,high,high,9,,,,
-7e0f77e0-f79a-45d6-8d5a-8e639f510708,rack.store,premium,3450,3450,high,high,4,namesilo,,,27/09/2026 05:58
+7e0f77e0-f79a-45d6-8d5a-8e639f510708,rack.store,premium,3450,3450,high,low,4,namesilo,,,27/09/2026 15:29
 d1237ca9-600e-446e-8a2f-31785b834af4,wolfsbane.store,premium,162.5,650,high,low,9,namecheap,,,17/09/2026 02:06
 b31b5d8a-04b0-4fdc-a75d-00cf8435816a,pathological.store,available,,,high,high,12,,,,
 0f574b7f-6429-4a10-ab05-a555c7c502f3,confirmatory.store,available,,,high,high,12,,,,
@@ -944,9 +951,9 @@ d6c75cf3-a8d7-4412-a652-792e74f52cdd,advisedly.store,premium,81.25,325,medium,lo
 7a854033-209e-444b-bdda-616640918144,variety.store,premium,3450,3450,high,low,7,namesilo,,,25/09/2026 12:52
 f5208328-5058-4f2d-b72c-69add0465b89,dowse.store,available,,,high,high,5,,,,
 37b83c30-6975-4e4f-866b-2c62925a51c0,achomawi.store,available,5.19,58.99,medium,low,8,namesilo,,,17/09/2026 00:49
-bd96eba6-9ef0-4811-8285-76b810c9d923,asphyxia.store,premium,640,640,high,low,8,namesilo,,,20/09/2026 15:10
+bd96eba6-9ef0-4811-8285-76b810c9d923,asphyxia.store,premium,640,640,medium,low,8,namesilo,,,20/09/2026 15:10
 777614c3-5561-45aa-8f11-c6f139c751e8,heracles.store,resell,,,high,low,8,"GoDaddy.com, LLC",09/07/2026 02:06,09/07/2027 02:06,26/09/2026 06:38
-3a458e1c-6f84-49b1-8b8d-dae92ff4cd23,mouse.store,premium,781.25,,high,low,5,name.com,,,
+3a458e1c-6f84-49b1-8b8d-dae92ff4cd23,mouse.store,premium,781.25,,high,low,5,name.com,,,27/09/2026 23:29
 7a246933-062e-4b6a-a89b-d0b6d1848d09,egg.store,premium,781.25,,high,low,3,name.com,,,
 3693a3cb-cb45-43a3-9e6f-a1cb644136be,pealed.store,available,,,medium,low,6,,,,
 35c25892-74a6-44d7-89c3-b00eae8d1026,martin.store,available,,,high,high,6,,,,
@@ -992,10 +999,3 @@ fa24a2cd-a4d8-4307-94a7-1bb9d69d7b6b,whew.store,available,,,high,high,4,,,,
 3f33d0b2-2baf-43ab-94e7-7e73bfe7f10a,diamonds.store,premium,1562.5,,high,low,8,name.com,,,
 0a1270d8-1ec0-48c3-84f5-cd20b7c3c605,islamic.store,premium,312.5,1250,high,low,7,name.com,,,22/08/2026 10:50
 dd3a737a-ee32-42eb-84dc-0e38a9543bc1,everloving.store,available,,,high,high,10,,,,
-b017ad10-5cd1-4efd-81e8-7ffed891ab66,moonwalk.store,premium,302.5,302.5,high,high,8,namesilo,,,25/09/2026 12:11
-16ef2e44-2088-4bd6-8a94-5b2383824173,stepson.store,premium,78.12,,high,low,7,name.com,,,
-2045e946-203a-471d-b1a0-515143a6598e,fiddles.store,available,,,high,low,7,,,,
-b8da2b5e-842c-40da-9e37-4e9f800ba348,trickling.store,available,,,high,high,9,,,,
-704e2f2b-3d8f-4064-bb4c-19e690bb6b70,linelike.store,available,0.98,43.98,medium,low,8,namecheap,,,23/08/2026 15:03
-4fcd8867-8405-4b8a-a35e-1e0861cd4519,sawmill.store,available,,,high,high,7,,,,
-b723294d-dbf1-46b0-85af-9e67145f4751,confederates.store,available,,,high,low,12,,,,
